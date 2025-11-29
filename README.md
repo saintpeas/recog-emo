@@ -418,4 +418,6 @@ Mark Lester Dula - [dulamarklester@gmail.com](mailto:dulamarklester@gmail.com)
 
 Project Link: [https://github.com/yourusername/emotion-recognition](https://github.com/yourusername/emotion-recognition)
 
+---
+
 **Made with PyTorch and MediaPipe**
