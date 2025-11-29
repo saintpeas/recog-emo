@@ -60,13 +60,13 @@ This project implements a convolutional neural network (CNN) for recognizing emo
 
 | Input | Detected Emotion | Confidence |
 |-------|-----------------|------------|
-| ![Sample 1](https://drive.google.com/file/d/1_3jtpKPeKzyUhTfuyneqQTyPHKymT5b_/view?usp=drive_link) | Happy | 96.8% |
-| ![Sample 2](https://drive.google.com/file/d/1QuwpxFzx6TIVFBt8eRs2ER4mTYU1Wl4Q/view?usp=drive_link) | Sad | 88.1% |
-| ![Sample 3](https://drive.google.com/file/d/1kAuAZ6wTfd-oWzYonEfCtnhVV_bSR6dQ/view?usp=drive_link) | Angry | 99.6% |
-| ![Sample 4](https://drive.google.com/file/d/1HskwMIt3ZfJ4ya4TtE9O3naeTamTq31T/view?usp=drive_link) | Neutral | 88.6% |
-| ![Sample 5](https://drive.google.com/file/d/1SBP2P_vLBPTVY2c6FIZvnr-W6KT9dClB/view?usp=drive_link) | Surprise | 98.3% |
+| ![Sample 1](https://drive.google.com/uc?export=view&id=1_3jtpKPeKzyUhTfuyneqQTyPHKymT5b_) | Happy | 96.8% |
+| ![Sample 2](https://drive.google.com/uc?export=view&id=1QuwpxFzx6TIVFBt8eRs2ER4mTYU1Wl4Q) | Sad | 88.1% |
+| ![Sample 3](https://drive.google.com/uc?export=view&id=1kAuAZ6wTfd-oWzYonEfCtnhVV_bSR6dQ) | Angry | 99.6% |
+| ![Sample 4](https://drive.google.com/uc?export=view&id=1HskwMIt3ZfJ4ya4TtE9O3naeTamTq31T)) | Neutral | 88.6% |
+| ![Sample 5](https://drive.google.com/uc?export=view&id=1SBP2P_vLBPTVY2c6FIZvnr-W6KT9dClB) | Surprise | 98.3% |
 | ![Sample 6](https://drive.google.com/uc?export=view&id=1rSvUOCRLHpXoAjgWcBu-a72um468wfn-)) | Fear | 84.5% |
-
+https://drive.google.com/uc?export=view&id=1_3jtpKPeKzyUhTfuyneqQTyPHKymT5b_)
 ## Architecture
 
 ### Model Architecture
