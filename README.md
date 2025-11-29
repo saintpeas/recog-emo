@@ -53,7 +53,7 @@ This project implements a convolutional neural network (CNN) for recognizing emo
 ### Test Output
 
 <!-- Add your test image here -->
-![Emotion Detection Demo](path/to/your/test_image.jpg)
+![Emotion Detection Demo](https://drive.google.com/uc?export=view&id=15Hj6tN_36HVZxqu8WqwBRptQfJJvoHmV)
 *Real-time emotion detection showing [Your Name] with detected emotion and confidence score*
 
 ### Sample Results
@@ -66,7 +66,7 @@ This project implements a convolutional neural network (CNN) for recognizing emo
 | ![Sample 4](https://drive.google.com/uc?export=view&id=1HskwMIt3ZfJ4ya4TtE9O3naeTamTq31T)) | Neutral | 88.6% |
 | ![Sample 5](https://drive.google.com/uc?export=view&id=1SBP2P_vLBPTVY2c6FIZvnr-W6KT9dClB) | Surprise | 98.3% |
 | ![Sample 6](https://drive.google.com/uc?export=view&id=1rSvUOCRLHpXoAjgWcBu-a72um468wfn-)) | Fear | 84.5% |
-https://drive.google.com/uc?export=view&id=1_3jtpKPeKzyUhTfuyneqQTyPHKymT5b_)
+
 ## Architecture
 
 ### Model Architecture
