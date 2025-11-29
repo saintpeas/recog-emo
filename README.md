@@ -65,7 +65,7 @@ This project implements a convolutional neural network (CNN) for recognizing emo
 | ![Sample 3](https://drive.google.com/file/d/1kAuAZ6wTfd-oWzYonEfCtnhVV_bSR6dQ/view?usp=drive_link) | Angry | 99.6% |
 | ![Sample 4](https://drive.google.com/file/d/1HskwMIt3ZfJ4ya4TtE9O3naeTamTq31T/view?usp=drive_link) | Neutral | 88.6% |
 | ![Sample 5](https://drive.google.com/file/d/1SBP2P_vLBPTVY2c6FIZvnr-W6KT9dClB/view?usp=drive_link) | Surprise | 98.3% |
-| ![Sample 6](https://drive.google.com/uc?export=view&id=/1rSvUOCRLHpXoAjgWcBu-a72um468wfn-) | Fear | 84.5% |
+| ![Sample 6](https://drive.google.com/uc?export=view&id=1rSvUOCRLHpXoAjgWcBu-a72um468wfn-)) | Fear | 84.5% |
 
 ## Architecture
 
